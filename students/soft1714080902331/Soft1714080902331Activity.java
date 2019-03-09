@@ -1,7 +1,9 @@
 package edu.hzuapps.myapplication;
 
-public class Soft1714080902331Activity {
-    public static void main() {
+public class Soft1714080902331Activity
+{
+    public static void main()
+    {
         System.out.println("Hello World!");
     }
 
